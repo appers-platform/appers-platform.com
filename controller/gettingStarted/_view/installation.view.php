@@ -3,6 +3,7 @@
 	<li>
 		<h4>Требования</h4>
 		<ul>
+			<li>UNIX/Linux - не тестировано под Windows</li>
 			<li><a target="_blank" href="http://nginx.org">Nginx</a></li>
 			<li><a target="_blank" href="http://php.net">PHP 5.4 +</a></li>
 			<li><a target="_blank" href="http://www.mysql.com">MySQL</a></li>
