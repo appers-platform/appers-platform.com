@@ -9,6 +9,7 @@
 	<![endif]-->
 </head>
 <body class="<?=application::getController()->getCSSClass()?>">
+	<? include dirname(__FILE__).'/_partials/ga.php'; ?>
 	<?=application::getController()->body_start?>
 	<div class="container">
 		<div class="masthead">
