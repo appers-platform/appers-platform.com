@@ -1,4 +1,4 @@
 <div class="jumbotron">
-	<h1>Deep beta...</h1>
-	<p class="lead">Is temporary private, contacts coming soon.</p>
+	<h1>Глубокая бета...</h1>
+	<p class="lead"><a href="mailto:appers.platform@gmail.com">appers.platform@gmail.com</p>
 </div>
