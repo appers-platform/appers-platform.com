@@ -1,6 +1,9 @@
 <div class="jumbotron">
-	<h1>Глубокая бета...</h1>
-	<p class="lead">На <a href="https://github.com/appers-platform/">GitHub</a></p>
+	<h1>Глубокая бета... *</h1>
+	<p class="lead">
+		На <a href="https://github.com/appers-platform/">GitHub</a><br>
+		* - код в любой момент может стать обратно несовместимым.
+	</p>
 </div>
 Для установки, Вы должны поместить файлы в следующей структуре:
 <?=solutions\highlighter::out('
