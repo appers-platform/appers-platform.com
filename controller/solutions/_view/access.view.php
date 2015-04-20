@@ -20,6 +20,7 @@
 
 Options:
 	list [access=type] [limit=50] - list all users with access (limit 50 by default)
+	find email=mail@examp.com [limit=50]
 	show user_id=000
 	edit user_id=000 [add=type[,type2]]
 	edit user_id=000 [delete=type[,type2]]
