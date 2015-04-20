@@ -184,7 +184,14 @@ namespace solutions\your_solution;
 				Methods:
 				<ul>
 					<li>returnJson($json) - если Вы вызовите этот метод, JSON будет возвращен (без HTML).</li>
-					<li>setLayout($layout) - указать макет (имя без '.view.php'), по умолчанию - 'default'.</li>
+					<li>
+						setView($view) - указать макет (имя без '.view.php').
+						Будет загружен 'PROJECT_ROOT/solutions/your_solution/some.view.php'
+					</li>
+					<li>
+						setGlobalView($layout) - указать макет (имя без '.view.php').
+						Будет загружен 'PROJECT_ROOT/controllers/_view/some.view.php'
+					</li>
 					<li>disableWrappers() - отключить обертки</li>
 					<li>enableWrappers() - включить обертки</li>
 					<li>isWrappersEnabled() - проверить, включены ли обертки</li>
