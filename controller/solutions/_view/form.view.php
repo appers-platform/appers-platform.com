@@ -23,7 +23,9 @@
 	<li><b>__construct($header = null, $action = null, $method = 'GET')</b></li>
 	<li><b>setSendButtonName($name)</b> return object</li>
 	<li><b>setClass($class)</b> return object</li>
-	<li><b>setHeader($header)</b> return object</li>
+	<li><b>setMethod($method)</b> return object</li>
+	<li><b>setAction($action)</b> return object</li>
+	<li><b>setHeader($header)</b> return object - set title of form</li>
 	<li>
 		<b>static create(array $fields, $header = null, $action = null, $method = 'GET')</b><br>
 		Элементы в массиве $fields будует использованы как $data в методе addField($data).
