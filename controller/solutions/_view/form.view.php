@@ -39,8 +39,8 @@
 			<li>solutions\form\select</li>
 			<li>solutions\form\html - plain html</li>
 		</ul>
-		- ассоциативным массивом, к примеру: ['name' => 'field_name', 'type' => 'text', 'value' => 'value']<br>
-		- простым массивом со следующим порядком: ['name', 'type', 'value']<br>
+		- ассоциативным массивом, к примеру: ['name' => 'field_name', 'type' => 'text', 'value' => 'value', 'title' => 'title']<br>
+		- простым массивом со следующим порядком: ['name', 'type', 'value', 'title']<br>
 	</li>
 </ul>
 <br>
