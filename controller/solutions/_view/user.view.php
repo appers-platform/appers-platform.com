@@ -3,12 +3,36 @@
 <b>Методы</b>:
 <ul>
 	<li>
-		<i>\solutions\user::current()</i>
+		<i>\solutions\user::getCurrent()</i>
 		- Возвращает \solutions\user\userModel или \mock.
+	</li>
+	<li>
+		<i>\solutions\user::isAuthorized()</i>
+		- Возвращает true или false.
+	</li>
+	<li>
+		<i>\solutions\user::isUserExists($id)</i>
+		- Возвращает true или false.
+	</li>
+	<li>
+		<i>\solutions\user::getCurrentId()</i>
+		- Возвращает ID или false.
+	</li>
+	<li>
+		<i>\solutions\user::getIdByEmail($email)</i>
+		- Возвращает ID (0, если не найдено).
 	</li>
 	<li>
 		<i>\solutions\user::setCurrent($user)</i>
 		- $user может быть \solutions\user\userModel или integer или null.
+	</li>
+	<li>
+		<i>\solutions\user::setAfterAuthUrl($url)</i>
+		- Указывает целевую страницу после авторизации.
+	</li>
+	<li>
+		<i>\solutions\user::setAfterAuthUrl()</i>
+		- Возвращает целевую страницу после авторизации.
 	</li>
 </ul>
 <b>Контроллеры</b>:
