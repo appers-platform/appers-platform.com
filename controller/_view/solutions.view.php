@@ -18,6 +18,7 @@
 		<li><a href="/solutions/badref">Badref</a> - Блокирование переходов с некоторых сайтов.</li>
 		<li><a href="/solutions/vertica">HP Vertica</a> - Интеграция с HP Vertica.</li>
 		<li><a href="/solutions/utrack">Utrack</a> - простая аналитика.</li>
+		<li><a href="/solutions/fs">FS</a> - рарбота с файловой системой.</li>
 	</ul>
 </div>
 
