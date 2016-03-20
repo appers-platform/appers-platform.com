@@ -12,7 +12,7 @@ appers/
 ├── config/ директория для конфигов
 └── appers/ директория для проектов (Апперов)
 ')?>
-<a href="https://github.com/appers-platform/appers-platform.com">Скачать фреймворк с GitHub</a>
+<a href="https://github.com/appers-platform/appers-platform.tk">Скачать фреймворк с GitHub</a>
 
 <p align="center">
 	<a href="/gettingStarted/installation">
