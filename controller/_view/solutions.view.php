@@ -18,7 +18,8 @@
 		<li><a href="/solutions/badref">Badref</a> - Блокирование переходов с некоторых сайтов.</li>
 		<li><a href="/solutions/vertica">HP Vertica</a> - Интеграция с HP Vertica.</li>
 		<li><a href="/solutions/utrack">Utrack</a> - простая аналитика.</li>
-		<li><a href="/solutions/fs">FS</a> - рарбота с файловой системой.</li>
+		<li><a href="/solutions/spoiler">Spoiler</a> - спойлер</li>
+		<li><a href="/solutions/fs">FS</a> - работа с файловой системой.</li>
 		<li><a href="/solutions/loadingOverlay">loadingOverlay</a> - слой с иконкой загрузки.</li>
 	</ul>
 </div>
