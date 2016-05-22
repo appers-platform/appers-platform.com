@@ -19,6 +19,7 @@
 		<li><a href="/solutions/vertica">HP Vertica</a> - Интеграция с HP Vertica.</li>
 		<li><a href="/solutions/utrack">Utrack</a> - простая аналитика.</li>
 		<li><a href="/solutions/spoiler">Spoiler</a> - спойлер</li>
+		<li><a href="/solutions/partialhide">Partialhide</a> - частично спрятать текст</li>
 		<li><a href="/solutions/fs">FS</a> - работа с файловой системой.</li>
 		<li><a href="/solutions/loadingOverlay">loadingOverlay</a> - слой с иконкой загрузки.</li>
 	</ul>
